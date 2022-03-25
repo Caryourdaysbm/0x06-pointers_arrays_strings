@@ -1,1 +1,1 @@
-strings
+0x06
